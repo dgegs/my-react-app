@@ -90,7 +90,7 @@ function App() {
     firstName: "Bernete",
     lastName: "Beed",
     email: "bbeed0@flickr.com",
-    images:'assets/images/student1.jpg',
+    images:'images/student1.jpg',
     gradYear: 2003
 
   }, {
